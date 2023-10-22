@@ -4,7 +4,7 @@ const router = express.Router();
 
 const plantsController = require("../controllers/plants.controller.js");
 
-router.get("/", (req, res) => res.send("Hello World!"));
+router.get("/", (req, res) => res.send("Welcome to Kari's Plant Shop!"));
 
 router.get("/plants", plantsController.getAll);
 
