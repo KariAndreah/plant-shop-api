@@ -1,6 +1,5 @@
 # Welcome to Kari's Plant Shop
-App is deployed on [Heroku](https://plant-shop-api-5e4b0fdc66a5.herokuapp.com/) using Heroku Postgres
-Recommend accessing API using Postman!
+App is deployed on [Heroku](https://plant-shop-api-5e4b0fdc66a5.herokuapp.com/) using Heroku Postgres. I recommend accessing the API using Postman!
 
 ### Get all Plants
 `GET /plants`
